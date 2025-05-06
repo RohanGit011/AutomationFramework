@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-02T13:33:19 IST" name="Default suite" finished-at="2025-05-02T13:33:44 IST" duration-ms="24883">
+    <groups>
+    </groups>
+    <test started-at="2025-05-02T13:33:19 IST" name="Default test" finished-at="2025-05-02T13:33:44 IST" duration-ms="24883">
+      <class name="testNG_practice.SampleReportTest">
+        <test-method is-config="true" signature="beforeSuiteMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:18 IST" name="beforeSuiteMethodTest" finished-at="2025-05-02T13:33:19 IST" duration-ms="1380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethodTest -->
+        <test-method is-config="true" signature="beforeClassMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:20 IST" name="beforeClassMethodTest" finished-at="2025-05-02T13:33:29 IST" duration-ms="9404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassMethodTest -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:29 IST" name="beforeMethodTest" finished-at="2025-05-02T13:33:37 IST" duration-ms="8326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="createContactTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:37 IST" name="createContactTest" finished-at="2025-05-02T13:33:37 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:37 IST" name="afterMethodTest" finished-at="2025-05-02T13:33:38 IST" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:38 IST" name="beforeMethodTest" finished-at="2025-05-02T13:33:40 IST" duration-ms="1616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="createContactWithORG()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:40 IST" name="createContactWithORG" finished-at="2025-05-02T13:33:40 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithORG -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:40 IST" name="afterMethodTest" finished-at="2025-05-02T13:33:41 IST" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:41 IST" name="beforeMethodTest" finished-at="2025-05-02T13:33:43 IST" duration-ms="1415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="createContactWithPhoneNumber()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:43 IST" name="createContactWithPhoneNumber" finished-at="2025-05-02T13:33:43 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithPhoneNumber -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:43 IST" name="afterMethodTest" finished-at="2025-05-02T13:33:44 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="afterClassMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:44 IST" name="afterClassMethodTest" finished-at="2025-05-02T13:33:44 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethodTest -->
+        <test-method is-config="true" signature="afterSuiteMethodTest()[pri:0, instance:testNG_practice.SampleReportTest@6ed3ccb2]" started-at="2025-05-02T13:33:44 IST" name="afterSuiteMethodTest" finished-at="2025-05-02T13:33:45 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethodTest -->
+      </class> <!-- testNG_practice.SampleReportTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
