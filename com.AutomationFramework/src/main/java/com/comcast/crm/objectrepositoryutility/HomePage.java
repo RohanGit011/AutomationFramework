@@ -40,6 +40,13 @@ public class HomePage {
 	@FindBy(xpath = "//img[@src='themes/softed/images/user.PNG']")
 	private WebElement acountLink;
 	
+	@FindBy(xpath = "//a[text()='Products']")
+	private WebElement productLink;
+	
+	public WebElement getProductLink() {
+		return productLink;
+	}
+
 	public WebElement getSearchEdt() {
 		return searchEdt;
 	}
