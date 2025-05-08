@@ -3,6 +3,12 @@
   <groupId>com.AutomationFramework</groupId>
   <artifactId>com.AutomationFramework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+  	<maven.compile.target>1.8</maven.compile.target>
+  	<maven.compile.source>1.8</maven.compile.source>
+  </properties>
+
   <dependencies>
   
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
